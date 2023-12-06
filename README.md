@@ -1,6 +1,6 @@
 # Distance-Map-Extraction-and-Road-Defect-Detection-Using-Stereo-Vision
 
-####Details of implementation and results can be found in Report.pdf
+#### Details of implementation and results can be found in Report.pdf
 
 ### Abstract
 With the advancements in computer vision and the capability of our processors, real-time methods
